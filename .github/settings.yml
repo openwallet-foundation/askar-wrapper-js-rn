@@ -1,0 +1,21 @@
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+repository:
+  name: askar-wrapper-javascript
+  description: Askar Wrapper JavaScript is a wrapper for the Rust library
+    Askar, a secure-storage and key management service. The wrapper enables
+    using Askar in Node- and React Native-based applications.
+  homepage: https://github.com/openwallet-foundation/askar-wrapper-javascript
+  default_branch: main
+  has_downloads: true
+  has_issues: true
+  has_projects: false
+  has_wiki: false
+  archived: false
+  private: false
+  allow_squash_merge: true
+  allow_merge_commit: false
+  allow_rebase_merge: true
+  
